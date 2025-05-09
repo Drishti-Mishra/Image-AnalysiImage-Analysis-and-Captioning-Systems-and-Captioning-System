@@ -1,1 +1,1 @@
-# Image-AnalysiImage-Analysis-and-Captioning-Systems-and-Captioning-System
+# Image-Analysis-and-Captioning-Systems
